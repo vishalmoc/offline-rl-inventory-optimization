@@ -1,0 +1,7 @@
+data/raw/.gitkeep
+data/processed/.gitkeep
+data/logged_transitions/.gitkeep
+results/plots/.gitkeep
+results/metrics/.gitkeep
+mlruns/.gitkeep
+notebooks/.gitkeep
