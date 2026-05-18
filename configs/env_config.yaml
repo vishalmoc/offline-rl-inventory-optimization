@@ -1,1 +1,8 @@
-
+max_inventory: 500
+initial_inventory: 200
+lead_time: 2
+holding_cost: 2
+stockout_penalty: 10
+order_cost: 5
+seasonality_factor: 1.5
+max_steps: 365
