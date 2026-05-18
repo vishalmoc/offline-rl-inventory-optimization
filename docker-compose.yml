@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  inventory-rl:
+    build: .
+    container_name: inventory_rl
